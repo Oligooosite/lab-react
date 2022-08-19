@@ -1,16 +1,16 @@
 import React from 'react';
 import './App.css';
 import WordCard from './WordCard';
-const word = "Hello"
-function App() {
- return (
- <div>
-    {
-      Array.from(word).map((c, i)=> <CharacterCard value={c} key={i}/>)
-    }
-    <WordCard value="hello"/>
 
- </div>
- );
+const word = "SANPONG"
+function App() {
+  return (
+    <div>
+      {
+        <WordCard value={word}/>
+      }
+      </div>
+  );
 }
+
 export default App;
