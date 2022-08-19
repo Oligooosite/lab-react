@@ -6,5 +6,6 @@
 
 ตัวอย่างการทำงาน
 
-
-
+![การจับภาพเว็บ_19-8-2022_17147_localhost](https://user-images.githubusercontent.com/100103206/185597759-dc962506-0904-4b91-8834-cf574bc8bc92.jpeg)
+![การจับภาพเว็บ_19-8-2022_171436_localhost](https://user-images.githubusercontent.com/100103206/185597766-d2f76832-dc67-4c4b-b104-67c2b3bf38b1.jpeg)
+![การจับภาพเว็บ_19-8-2022_171423_localhost](https://user-images.githubusercontent.com/100103206/185597767-36cb6bbd-cd01-43a4-a44b-deeb2ca1792d.jpeg)
