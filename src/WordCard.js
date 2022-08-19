@@ -27,11 +27,11 @@ const WordCard = ({ value }) => {
 
     if (guess.length === state.word.length) {
       if (guess === state.word) {
-        setText("Congratulations!!");
+        setText("You Win!!!");
         setState({ ...state, guess: "", completed: true });
 
       } else {
-        setText("Too Bad let try again");
+        setText("You lose ,try again");
         setState({
           ...state,guess: "",attempt: state.attempt + 1});
       }
@@ -42,7 +42,7 @@ const WordCard = ({ value }) => {
     <div>
         {state.completed ? (
         <h1
-          style={{ color: "green", textTransform: "uppercase", opacity: "2" }}
+          style={{ color: "green", textTransform: "uppercase", opacity: "4" }}
         >
           {text}
         </h1>
